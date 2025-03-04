@@ -57,12 +57,12 @@ body {
     }
 
     .derecha {
-        flex-direction: column;/*apila los elementos de la derecha*/
+        flex-direction:column;/*apila los elementos de la derecha*/
         margin-left: 0;
     }
 
     .derecha a{
-        padding-left: 0px;
-        padding: 8px 0px;
+        padding: 0px 0px;
+        padding-bottom: 18px;
     }
 }
